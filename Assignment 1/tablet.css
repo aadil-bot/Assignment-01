@@ -1,0 +1,13 @@
+body {
+  background-color: pink; 
+  font-size: 18px;
+}
+
+.project-item {
+  width: 280px;
+  background-color: coral;
+}
+
+.skill {
+  width: 280px;
+}

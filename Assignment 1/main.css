@@ -1,17 +1,18 @@
 header {
-    text-align: center;
-    background-color: lightblue;
-    color: white;
+  text-align: center;
+  background: linear-gradient(45deg, #56ab2f, #a8e063);
+  color: black;
 }
 
-#customfooter {
-    text-align: center;
-    background-color: lightblue;
-    color: black;
+footer {
+  text-align: center;
+  background: linear-gradient(45deg, #56ab2f, #a8e063);
+  color: black;
 }
+
 
 #first {
-    color: green;
+    color: black;
 }
 
 .second {
@@ -40,7 +41,7 @@ header {
     float: left;
     margin-right: 20px;
     margin-bottom: 16px;
-    color: white;
+    color: black;
     padding: 16px; /* I just added this */
 }
 /*
@@ -81,3 +82,5 @@ header {
         width: 200px;
     }
 }
+
+

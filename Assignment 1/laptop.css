@@ -1,0 +1,13 @@
+body {
+  background-color: #f5f5f5; 
+  font-size: 20px;
+}
+
+.project-item {
+  width: 320px;
+  background-color: steelblue;
+}
+
+.skill {
+  width: 320px;
+}
