@@ -1,41 +1,36 @@
-header {
+header { /*Changes the color of the header to a linear gradient as well as changing the color of the numbers on the navigation*/
   text-align: center;
   background: linear-gradient(45deg, #56ab2f, #a8e063);
-  color: black;
+  color: white;
 }
 
-footer {
+footer { /*Changes the color of the footer to a linear gradient as well as changing the color of the text on the footer*/
   text-align: center;
   background: linear-gradient(45deg, #2193b0, #6dd5ed);
-  color: black;
+  color: white;
 }
 
 
-#first {
+#first { /*Changes the first paragraps text color*/
     color: black;
 }
 
-.second {
+.second { /*Changes the other paragraphs text color*/
     color: orangered;
 }
 
-.element {
+.element { /*Size for navigation as well as putting them horizontally*/
     float: left;
     margin-right: 20px;
 }
-
-.clearfix::after {
+/*
+.clearfix::after { 
     content: "";
     display: table;
     clear: both;
 }
-
-.skill {
-    width: 360px;
-    background-color: aqua;
-}
-
-.project-item {
+*/
+.project-item { /*Project display design*/
     width: 310px; 
     background-color: orangered;
     float: left;
