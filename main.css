@@ -24,9 +24,10 @@ footer { /*Changes the color of the footer to a linear gradient as well as chang
     margin-right: 20px;
 }
 
-.clearfix::after { /*Makes sure floated elements are wrapped properly*/
+/*Makes sure floated elements are wrapped properly*/
+.clearfix::after { 
     content: "";
-    display: table;
+    display: table; 
     clear: both;
 }
 
