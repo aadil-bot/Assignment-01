@@ -23,13 +23,13 @@ footer { /*Changes the color of the footer to a linear gradient as well as chang
     float: left;
     margin-right: 20px;
 }
-/*
-.clearfix::after { 
+
+.clearfix::after { /*Makes sure floated elements are wrapped properly*/
     content: "";
     display: table;
     clear: both;
 }
-*/
+
 .project-item { /*Project display design*/
     width: 310px; 
     background-color: orangered;
@@ -37,7 +37,7 @@ footer { /*Changes the color of the footer to a linear gradient as well as chang
     margin-right: 20px;
     margin-bottom: 16px;
     color: black;
-    padding: 16px; /* I just added this */
+    padding: 16px;
 }
 /*
 @media (condition) {
