@@ -30,6 +30,11 @@ footer { /*Changes the color of the footer to a linear gradient as well as chang
     clear: both;
 }
 
+.skill { 
+    width: 360px;
+    background-color: aqua;
+}
+
 .project-item { /*Project display design*/
     width: 310px; 
     background-color: orangered;
